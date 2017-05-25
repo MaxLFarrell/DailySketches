@@ -1,5 +1,5 @@
 ///-----------------------------------------------------------------
-///   Name:           sketch_000012_login
+///   Name:           sketch_00012_login
 ///   Description:    UI test for login page
 ///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           May 19th, 2017
