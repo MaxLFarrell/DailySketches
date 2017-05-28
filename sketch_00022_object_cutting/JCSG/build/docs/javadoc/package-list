@@ -1,0 +1,11 @@
+eu.mihosoft.jcsg
+eu.mihosoft.jcsg.ext.imagej
+eu.mihosoft.jcsg.ext.openjfx.importers
+eu.mihosoft.jcsg.ext.openjfx.importers.obj
+eu.mihosoft.jcsg.ext.openjfx.shape3d
+eu.mihosoft.jcsg.ext.openjfx.shape3d.symbolic
+eu.mihosoft.jcsg.ext.openjfx.utils3d
+eu.mihosoft.jcsg.ext.org.poly2tri
+eu.mihosoft.jcsg.ext.quickhull3d
+eu.mihosoft.jcsg.playground
+eu.mihosoft.jcsg.samples

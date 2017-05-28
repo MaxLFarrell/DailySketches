@@ -1,0 +1,11 @@
+Manifest-Version: 1.0
+Implementation-Title: jcsg
+Build-Date: 2017-05-28
+Implementation-Version: 0.5.3-SNAPSHOT
+Built-By: maxfa
+Build-Revision: cf8b8dae0070faefd5e779a16e5099a9ab91966d
+Specification-Title: jcsg
+Build-Time: 13:52:48.033-0400
+Created-By: 1.8.0_112 (Oracle Corporation 25.112-b15)
+Specification-Version: 0.5.3-SNAPSHOT
+
