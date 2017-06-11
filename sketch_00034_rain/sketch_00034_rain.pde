@@ -19,7 +19,10 @@ import processing.opengl.*;
 WB_Render render;
 
 // Frame tracker
-int f = 0;
+int f = -16;
+
+// Actual frame tracker
+int af = 0;
 
 // Image for watermark texture
 PImage watermark;
@@ -76,9 +79,10 @@ void draw(){
   lights();
   // Increment frame
   f++;
-  if (f > 89){
+  af++;
+  if (af > 96){
     exit();
   }
   // Save frame
-  save("frame_" + nf(f, 5) + ".jpg");
+  save("frame_" + nf(af, 5) + ".jpg");
 }
