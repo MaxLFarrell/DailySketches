@@ -1,6 +1,6 @@
 ///-----------------------------------------------------------------
-///   Name:           sketch_00036_3d_heart
-///   Description:    Draw an extruded rectangle, extruded to a box and extruded to a pyramid
+///   Name:           sketch_00037_extrusions
+///   Description:    Create extrusions
 ///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           June 13th, 2017
 ///   Notes:          n/a
