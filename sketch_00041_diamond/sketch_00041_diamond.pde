@@ -8,6 +8,8 @@
 ///   Name:           Date:            Description:
 ///-----------------------------------------------------------------
 
+import extruder.*;
+
 // Frame tracker
 int f = 0;
 
@@ -55,22 +57,30 @@ void draw(){
     rotateZ(radians(f*10));
     rotateY(radians(f*10));
   }
+  extruder e = new extruder(this);
   // Draw top of diamond as two connected octagons with bottom being slightly larger than top
-  extrude(genPlane(8, 100), genPlane(8, 150), 100, "box");
+  PShape[] top = e.extrude(e.genPlane(8, 100), e.genPlane(8, 150), 100, "box");
+  for (PShape ob:top){
+    shape(ob);
+  }
   // Create bottom of diamond with triangle sides, top being the bottom of the following object
-  PShape t = genPlane(8, 150);
+  PShape t = e.genPlane(8, 150);
   int[][] to = new int[10][2];
   to[0] = new int[]{0, 0};
   for (int i = 0; i < t.getVertexCount(); i++) {
     PVector v = t.getVertex(i);
     to[i + 1] = new int[]{(int) v.x, (int) v.y};
   }
-  extrude(to, new int[0][0], 300, 100, "triangle");
+  PShape[] bottom = e.extrude(to, new int[0][0], 300, 100, "triangle");
+  for (PShape ob:bottom){
+    shape(ob);
+  }
   // Increment frame
   f++;
   if (f > 115){
     exit();
   }
+  noLoop();
   // Save frame
-  save("data/frame_" + nf(f, 5) + ".jpg");
+  //save("data/frame_" + nf(f, 5) + ".jpg");
 }

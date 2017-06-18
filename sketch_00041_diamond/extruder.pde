@@ -37,7 +37,7 @@ void extrude(int[][] points, int[][] bpoints, int depth, int depthOffset, String
     } else {
       next = new int[] {points[it+1][0], points[it+1][1]};
       if (calcBottom){
-        next = new int[] {points[it+1][0], points[it+1][1]};
+        nextBottom = new int[] {points[it+1][0], points[it+1][1]};
       } else {
         nextBottom = new int[] {bpoints[it+1][0], points[it+1][1]};
       }
