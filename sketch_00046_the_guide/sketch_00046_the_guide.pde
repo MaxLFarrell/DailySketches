@@ -1,8 +1,8 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00046_the_guide
-///   Description:    Animate an arrow hitting a bullseye
+///   Description:    Animate a modern interpretation of the hithickers guide to the galaxy
 ///   Author:         Max Farrell (max@mail.arcane.info)
-///   Date:           June 21th, 2017
+///   Date:           June 22th, 2017
 ///   Notes:          n/a
 ///   Revision History:
 ///   Name:           Date:            Description:
@@ -140,7 +140,7 @@ void draw(){
   
   // Increment frame
   f++;
-  if (f > 160){
+  if (f > 143){
     exit();
   }
   // Save frame
