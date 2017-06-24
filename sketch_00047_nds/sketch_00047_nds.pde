@@ -2,7 +2,7 @@
 ///   Name:           sketch_00047_nds
 ///   Description:    Draw and animate a Nontendo Double Screen
 ///   Author:         Max Farrell (max@mail.arcane.info)
-///   Date:           June 22th, 2017
+///   Date:           June 23rd, 2017
 ///   Notes:          n/a
 ///   Revision History:
 ///   Name:           Date:            Description:
