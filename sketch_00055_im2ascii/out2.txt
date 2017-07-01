@@ -1,178 +1,68 @@
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::::!ll::::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::>vnj+:::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::+Xvr+:::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::[Xvj]:::::::::
 
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+::::::::i)/t|1!::::::::
 
-:::::::::::::::::::::::::_{}[]--?~:::::::::::::::::::::::::
+:::::::iYXcuxrji:::::::
 
-::::::::::::::::::::::::I/uvuxrjj/!::::::::::::::::::::::::
+:::::::iJJYzvuni:::::::
 
-::::::::::::::::::::::::!fvcvnxjjt-::::::::::::::::::::::::
+:::::::}fnux/|\[:::::::
 
-::::::::::::::::::::::::!rczcunrjf~::::::::::::::::::::::::
+:::::;)juvuxrt\\{;:::::
 
-::::::::::::::::::::::::iuYYzvuxrf!::::::::::::::::::::::::
+:::::?nuunnxrjf//-:::::
 
-::::::::::::::::::::::::icXXzvjfrfi::::::::::::::::::::::::
+:::::rvuuunxjft///:::::
 
-::::::::::::::::::::::::<XXXcvrrrj<::::::::::::::::::::::::
+::::;vvuunnxjf////i::::
 
-::::::::::::::::::::::::_YYXzvxrrr?::::::::::::::::::::::::
+::::;uvuunxxjf////i::::
 
-::::::::::::::::::::::::1YzXcvf|jr1::::::::::::::::::::::::
+:::::ruunnxrjf////;::::
 
-:::::::::::::::::::::::;\jfjjf|)//(I:::::::::::::::::::::::
+:::::)uunnxrjf///):::::
 
-::::::::::::::::::::>-?[){{)(()1{1)[-+i::::::::::::::::::::
+:::::_uunnxrjtt//-:::::
 
-::::::::::::::::::::\czvvuunxrjftttfft1::::::::::::::::::::
+:::::inunxxrjft//>:::::
 
-::::::::::::::::::::jUJUYXzzcvuuxrrrrr(::::::::::::::::::::
+:::::Ixunxxrjftt\l:::::
 
-::::::::::::::::::::rUJUYXzzcvuuxxrxrr\;:::::::::::::::::::
+:::::;rnnnxrjftt\;:::::
 
-::::::::::::::::::::rUJUUXzzcvuuxrrrrr\;:::::::::::::::::::
+::::::runxxrjftt\;:::::
 
-::::::::::::::::::::fYUUYXzccvuuxrrrrr\;:::::::::::::::::::
+:::::;nnnnxrjftt\I:::::
 
-:::::::::::::::::::I)J0OO00QLLCCJJUUUY(I:::::::::::::::::::
+:::::!nnnnxxjjft/!:::::
 
-::::::::::::::::::<1\tfjxnnnxrf/|((|\\(}<::::::::::::::::::
+:::::+nnnnnxjjft/<:::::
 
-:::::::::::::::::+1|tjnuvcvvunxxjt\|\//|1+:::::::::::::::::
+:::::1nnnnnxrfttt[:::::
 
-::::::::::::::::+)\tjxuvcvvuunxxrf/\\\//|1+::::::::::::::::
+:::::fuuunnxrjftt|:::::
 
-:::::::::::::::<(/tjxuvvvvvunnxxrjt/\|\/\|1~:::::::::::::::
+:::::nuuuunxrjfftt:::::
 
-::::::::::::::!(fjrnuuuunnxxrrrjjjfftt/\\\|1i::::::::::::::
+::::;xuuuunxrft/t/;::::
 
-:::::::::::::;[jrxuvuuuuunnnnxxrrjjjfftt/\\|]I:::::::::::::
+:::::ruuuuunnrrjj\:::::
 
-:::::::::::::>tnuvvvuuuuuunnnxrrjjfffttt////|<:::::::::::::
+:::::/ccvcvuunnnx}:::::
 
-:::::::::::::[ncvvvuuuuuunnnxxrrjjffttt///t//};::::::::::::
+:::::!-]}}}}}[?_>;:::::
 
-::::::::::::I/vcvvvuuuuuunnnxxrrjffttt////t/t|!::::::::::::
+:::::::::::::::::::::::
 
-::::::::::::ixccvvvvuuunnnnnxxrrjffttt//////t/_::::::::::::
-
-::::::::::::~vcvvvvuuuunnnnnxxrjjjfttt///////t}::::::::::::
-
-::::::::::::+vvvvvvuuuuunnnnxxrjjfftt////////t)::::::::::::
-
-::::::::::::_vvvvuuuuuuunnnnxxrjjfftt/////////)::::::::::::
-
-::::::::::::+uvvvuuuuuunnnnxxxrjjfftt////////t)::::::::::::
-
-::::::::::::<uvvvuuuuuuunnnxxxrjjfftt/////////{::::::::::::
-
-::::::::::::ixvvvuuuuunnnnnxxrrjjfftt/////////?::::::::::::
-
-::::::::::::lfvvuuuuuunnnnnxxrrjjfftt///////t/<::::::::::::
-
-::::::::::::;|uuuuuuunnnnnxxxrrjjfttt///////t\l::::::::::::
-
-:::::::::::::[nuuuuuunnnnnnxxrrjjfttt////////)I::::::::::::
-
-:::::::::::::+ruuuuuunnnnnxxxrrjffttt////////]:::::::::::::
-
-:::::::::::::ituuuuunnnnnnxxxrrjfftttt//////\+:::::::::::::
-
-:::::::::::::I(nuuuunnnnnnxxrrrjjfttt///////(i:::::::::::::
-
-::::::::::::::[xuuuunnnnnnxxxrjjffftttt/////{I:::::::::::::
-
-::::::::::::::+ruuuunnnnnxxxrrrjjffttt//////?::::::::::::::
-
-::::::::::::::ifnuuunnnnxxxrrrjjjfftttt////\+::::::::::::::
-
-::::::::::::::;\nuuuunnnnxxxrrrjjfftttt////|>::::::::::::::
-
-:::::::::::::::)nuuuunnnxxxxrrrjjfftttt////);::::::::::::::
-
-:::::::::::::::[xnuunnnxxxxxrrrjffffttt/t//1:::::::::::::::
-
-:::::::::::::::_xnnunnnnnxxxrrrjjfffttttt/\[:::::::::::::::
-
-:::::::::::::::~rnnnnnnnnxxxrrrjffffttttt/\]:::::::::::::::
-
-:::::::::::::::<ruuunnnnnxxxrrrjjfffttttt/\-:::::::::::::::
-
-:::::::::::::::>xuuunnnnxxxxrrjjjfffttttt/\-:::::::::::::::
-
-:::::::::::::::<xuunnnnnnxxxrrrjjjffftttt/\-:::::::::::::::
-
-:::::::::::::::+nunnnnnnnxxxxrrjjjffttttt/\?:::::::::::::::
-
-:::::::::::::::-nunnunnnnnxxxrrjjjffftttt//[:::::::::::::::
-
-:::::::::::::::}uunnnnnnnnxxxxrrjjfffftft//{:::::::::::::::
-
-:::::::::::::::(uunnnnnnnnxxxxrrjjjffftft//):::::::::::::::
-
-::::::::::::::ltunnnnnnnnnxxxxrrjjfffftftt/|!::::::::::::::
-
-::::::::::::::<runnnnnnnnnnxxxrrjjjffftttt/\~::::::::::::::
-
-::::::::::::::?nunnnnnnnnnnxxxrrjjjffftttt/\-::::::::::::::
-
-:::::::::::::;1nnnnnnnnnnnnnxxrrjjjffftttt//};:::::::::::::
-
-:::::::::::::!/nnnnunnnnnnnnxxrrjjjffttttt//)!:::::::::::::
-
-:::::::::::::~jnnnnunnnnnnnnxxxrjjffftttttt/|<:::::::::::::
-
-:::::::::::::]xunnununnnnnnnxxxrrjffftttttt//_:::::::::::::
-
-:::::::::::::1nnnuuuunnnnnnnxxrrrjfffttttttt/};::::::::::::
-
-::::::::::::I\nnnuuuuuunnnnnnxxrrjjfftftttttt)I::::::::::::
-
-::::::::::::lfnnnuuuuuunnnnnnxxxrrjjffffttttt|l::::::::::::
-
-::::::::::::irnuuuuuuuuunnnnnxxxrrjjffffftttt\i::::::::::::
-
-::::::::::::<nuuuuuuuuuuuunnnnxxrrrjjfffffffft<::::::::::::
-
-::::::::::::~nnuvvvvvvvvvuuunnnxrrjffttttttfft~::::::::::::
-
-::::::::::::~xnnnnnnnnnnxxxxrrjfft//\\\\\\\//\~::::::::::::
-
-::::::::::::<rnuuuuuuuuuuunnnnxxxrrjjffttftt/|<::::::::::::
-
-::::::::::::>jxnuuuuuuunuunnnnnxrrjrxjjffjft/(i::::::::::::
-
-::::::::::::!fxuuuuvuuunvuuunnvnnxxxnrjjjjff/(l::::::::::::
-
-::::::::::::I/xuuuvcvvvnvvuuunvnnnxxnrrjrrjft1I::::::::::::
-
-::::::::::::I1xuvvucvvvuvvuvunvunnxnxxrrxrrjt]:::::::::::::
-
-:::::::::::;i[nzzzczzccvccvvvvcvuuuvuuuuvuvu(i:::::::::::::
-
-::::::::::::I<[\nczYYYXXXXXXzXXXzzzzvunrf\}+!;:::::::::::::
-
-:::::::::::::;Il!ii><~~+++______+~~<>i!llI;;:::::::::::::::
-
-:::::::::::::::::::::;;;;;;;;;;;;;;;:::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
-
-:::::::::::::::::::::::::::::::::::::::::::::::::::::::::::
+:::::::::::::::::::::::
 

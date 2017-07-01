@@ -24,7 +24,7 @@ String imname = "test2.jpg";
 String out = "out2.txt";
 
 // How many factors to scale down
-int scaleDown = 10;
+int scaleDown = 25;
 
 // Set up scene
 void setup() {
