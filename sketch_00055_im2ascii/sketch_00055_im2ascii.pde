@@ -2,7 +2,7 @@
 ///   Name:           sketch_00055_im2ascii
 ///   Description:    Convert images to 1 bit ascii art
 ///   Author:         Max Farrell (max@mail.arcane.info)
-///   Date:           June 31th, 2017
+///   Date:           July 1st, 2017
 ///   Notes:          n/a
 ///   Revision History:
 ///   Name:           Date:            Description:
