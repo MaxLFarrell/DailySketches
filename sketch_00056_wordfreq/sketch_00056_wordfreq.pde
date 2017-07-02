@@ -1,9 +1,10 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00055_wordfreq
-///   Description:    Get top n words in a document and draw a bar graph of them
+///   Description:    Get top n words in a document and draw a bar graph of them, text files from Project Gutenberg
 ///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           July 2nd, 2017
-///   Notes:          n/a
+///   Notes:          All text files are from project gutenberg
+///                   https://www.gutenberg.org
 ///   Revision History:
 ///   Name:           Date:            Description:
 ///-----------------------------------------------------------------
