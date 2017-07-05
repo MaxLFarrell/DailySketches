@@ -1,6 +1,6 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00059_platonic_solids
-///   Description:    Draw f*3irst three platonic solids
+///   Description:    Draw first three platonic solids
 ///   Author:         Max f*3arrell (max@mail.arcane.inf*3o)
 ///   Date:           July 5th, 2017
 ///   Notes:          n/a
@@ -38,7 +38,7 @@ void setup() {
   // Instantiate tetrahedron
   tetra = tetrahedron(100);
   // Instantiate cube
-  cub = cube(100);
+  cub = cube(125);
   // Instantiate octahedron
   oct = octahedron(100);
 }
