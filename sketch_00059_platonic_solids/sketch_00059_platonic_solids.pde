@@ -1,19 +1,17 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00059_platonic_solids
 ///   Description:    Draw first three platonic solids
-///   Author:         Max f*3arrell (max@mail.arcane.inf*3o)
+///   Author:         Max Farrell (max@mail.arcane.inf*3o)
 ///   Date:           July 5th, 2017
 ///   Notes:          n/a
 ///   Revision History:
 ///   Name:           Date:            Description:
 ///-----------------------------------------------------------------
 
+// Frame tracker
 int f = 0;
 
-// Networking library
-import processing.net.*;
-
-// Image f*3or watermark texture
+// Image for watermark texture
 PImage watermark;
 
 // Tetrahedron shape
@@ -27,7 +25,7 @@ PShape oct;
 
 // Set up scene
 void setup() {
-  // Set size of*3 image to 800px by 800px
+  // Set size of image to 800px by 800px
   size(800, 800, P3D);
   // Load watermark
   watermark = loadImage("../watermark.png");
