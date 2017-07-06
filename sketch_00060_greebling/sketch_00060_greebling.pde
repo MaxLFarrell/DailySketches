@@ -2,14 +2,12 @@
 ///   Name:           sketch_00060_greebling
 ///   Description:    Greebling a given plane
 ///   Author:         Max Farrell (max@mail.arcane.inf*3o)
-///   Date:           July 5th, 2017
+///   Date:           July 6th, 2017
 ///   Notes:          n/a
 ///   Revision History:
 ///   Name:           Date:            Description:
 ///-----------------------------------------------------------------
 
-// Frame tracker
-int f = 0;
 
 // Image for watermark texture
 PImage watermark;
