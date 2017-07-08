@@ -1,7 +1,7 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00059_platonic_solids
 ///   Description:    Draw first three platonic solids
-///   Author:         Max Farrell (max@mail.arcane.inf*3o)
+///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           July 5th, 2017
 ///   Notes:          n/a
 ///   Revision History:
