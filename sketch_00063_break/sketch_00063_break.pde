@@ -1,6 +1,6 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00063_break
-///   Description:    Subvidide block, then show subdivisions at a given interval
+///   Description:    Subdivide block, then show subdivisions at a given interval
 ///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           July 9th, 2017
 ///   Notes:          n/a
