@@ -1,9 +1,9 @@
 ///-----------------------------------------------------------------
 ///   Name:           sketch_00070_web_model_loader
-///   Description:    Test loading models from url
+///   Description:    Test loading models from url, models from here: http://people.sc.fsu.edu/~jburkardt/data/obj/obj.html
 ///   Author:         Max Farrell (max@mail.arcane.info)
 ///   Date:           July 12th, 2017
-///   Notes:          n/a
+///   Notes:          Models: http://people.sc.fsu.edu/~jburkardt/data/obj/obj.html
 ///   Revision History:
 ///   Name:           Date:            Description:
 ///-----------------------------------------------------------------
