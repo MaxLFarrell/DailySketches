@@ -53,7 +53,7 @@ void draw(){
   // If on multiple of 120
   if ((frameCount % 120) == 0){
     // Save frame every time it's switched
-    // save(nf(frameCount, 5) + ".png");
+    save(nf(frameCount, 5) + ".png");
     // Increment loop offset
     if ((frameCount/120)/(indexOffset/content.length) >= content.length){
       indexOffset += content.length;
